@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Bitter', sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    min-width: 360px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
